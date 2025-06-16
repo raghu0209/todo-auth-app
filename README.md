@@ -27,10 +27,6 @@ This is a multi-user Todo List web application built using **HTML, CSS, and Java
 - Dynamic rendering based on user state
 - Building a complete authentication flow on frontend
 
-## 📸 Screenshots
-
-*Include screenshots of login, signup, and dashboard here*
-
 ## 📁 Folder Structure
 
 ```
